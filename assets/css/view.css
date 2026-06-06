@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 50px;
+}
+
+th{
+    background: #007bff;
+    color: white;
+    padding: 12px;
+}
+
+td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover{
+    background: #f1f1f1;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 4px;
+    color: white;
+}
+
+a[href*="edit"]{
+    background: #28a745;
+}
+
+a[href*="delete"]{
+    background: #dc3545;
+}
+input{
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    padding-left: 40px;
+    height: 40px;
+    margin-left: 400px;
+    background: #ffffff;
+    margin-top: 50px;
+
+}
+.sea{
+    width: 100px;
+    height: 40px;
+    background-color: darkviolet;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.fa-magnifying-glass{
+    margin-left: 405px;
+    position: absolute;
+    margin-top: 60px;
+    cursor: pointer;
+}
+.dash{
+    width: 200  px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(3, 244, 164);
+    border: none;
+}
