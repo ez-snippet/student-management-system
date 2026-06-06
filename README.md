@@ -44,14 +44,20 @@ It allows administrators to manage students efficiently with authentication and 
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-06-06%20091446.png)
 
-### ➕ Add Student
-![Add Student](screenshots/add-student.png)
+### Login
+![Login](screenshots/Screenshot%202026-06-06%20091507.png)
 
-### 📋 View Students
-![View Students](screenshots/view-students.png)
+### Add Student
+![Add Student](screenshots/Screenshot%202026-06-06%20091539.png)
+
+### View Students
+![View Students](screenshots/Screenshot%202026-06-06%20091554.png)
+
+### Edit/Delete
+![Edit/Delete](screenshots/Screenshot%202026-06-06%20091611.png)
 
 ---
 
