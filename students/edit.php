@@ -25,7 +25,7 @@ if (isset($_POST['submit'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/assets/css/add.css">
+    <link rel="stylesheet" href="../assets/css/add.css">
 </head>
 <body>
     <div class="container">
@@ -73,6 +73,6 @@ if (isset($_POST['submit'])) {
 
     </form>
 </div>
-    <script src="/assets/js/add.js"></script>
+    <script src="../assets/js/add.js"></script>
 </body>
 </html>
